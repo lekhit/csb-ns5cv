@@ -1,1 +1,4 @@
- <script src="https://onlinegdb.com/embed/js/bKHGPqYp9?theme=dark"></script>
+# static site
+### suitable for github pages
+### similar design to dynamic site
+#### [link](https://lekhit.github.io/csb-ns5cv/)
